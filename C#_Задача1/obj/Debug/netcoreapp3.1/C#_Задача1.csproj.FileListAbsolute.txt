@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\C#_S2.1\C#_Задача1\bin\Debug\netcoreapp3.1\C#_Задача1.exe
+C:\Users\user\Desktop\C#_S2.1\C#_Задача1\bin\Debug\netcoreapp3.1\C#_Задача1.deps.json
+C:\Users\user\Desktop\C#_S2.1\C#_Задача1\bin\Debug\netcoreapp3.1\C#_Задача1.runtimeconfig.json
+C:\Users\user\Desktop\C#_S2.1\C#_Задача1\bin\Debug\netcoreapp3.1\C#_Задача1.runtimeconfig.dev.json
+C:\Users\user\Desktop\C#_S2.1\C#_Задача1\bin\Debug\netcoreapp3.1\C#_Задача1.dll
+C:\Users\user\Desktop\C#_S2.1\C#_Задача1\bin\Debug\netcoreapp3.1\C#_Задача1.pdb
+C:\Users\user\Desktop\C#_S2.1\C#_Задача1\obj\Debug\netcoreapp3.1\C#_Задача1.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#_S2.1\C#_Задача1\obj\Debug\netcoreapp3.1\C#_Задача1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#_S2.1\C#_Задача1\obj\Debug\netcoreapp3.1\C#_Задача1.AssemblyInfo.cs
+C:\Users\user\Desktop\C#_S2.1\C#_Задача1\obj\Debug\netcoreapp3.1\C#_Задача1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_S2.1\C#_Задача1\obj\Debug\netcoreapp3.1\C#_Задача1.dll
+C:\Users\user\Desktop\C#_S2.1\C#_Задача1\obj\Debug\netcoreapp3.1\C#_Задача1.pdb
+C:\Users\user\Desktop\C#_S2.1\C#_Задача1\obj\Debug\netcoreapp3.1\C#_Задача1.genruntimeconfig.cache
