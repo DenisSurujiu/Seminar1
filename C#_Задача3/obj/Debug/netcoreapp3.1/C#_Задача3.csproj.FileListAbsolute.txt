@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\C#_S2.1\C#_Задача3\obj\Debug\netcoreapp3.1\C#_Задача3.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#_S2.1\C#_Задача3\obj\Debug\netcoreapp3.1\C#_Задача3.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#_S2.1\C#_Задача3\obj\Debug\netcoreapp3.1\C#_Задача3.AssemblyInfo.cs
+C:\Users\user\Desktop\C#_S2.1\C#_Задача3\obj\Debug\netcoreapp3.1\C#_Задача3.csproj.CoreCompileInputs.cache
